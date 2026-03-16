@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+
+# Ignore all PDFs...
+*.pdf
+
+#invoice sample
+!invoice.pdf
+
+# Project metadata
+.python-version
